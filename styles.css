@@ -78,6 +78,7 @@ header {
     width: 50%;
     height: 600px;
     margin-right: 2rem;
+
 }
 .text{
     height: 471px;
@@ -668,6 +669,10 @@ a{
     .text{
         width: 378px;
 
+    }
+  
+    .container img{
+    margin:  0 auto;
     }
 
 
